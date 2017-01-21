@@ -9,16 +9,7 @@
 ，自己模仿gokk.tv的前台搭建了一个基于Node.js + Mongoose + Bootstrap向goxiazai致敬!
 
 
-# 获取源码
-
-源码托管于git
-
-<a href="https://github.com/hacke2/gokk">点击获取</a>
-
-# 部署于运行
-
-使用npm将项目打包，大家检出来后使用<strong>npm install</strong>即可安装
-
-使用<strong>node app</strong>运行，数据库使用Mongdb，请自行安装，测试数据在test/db.js下
-
-希望您能提出建议或意见
+1. Run npm install
+2. Run bower install
+3. Run gulp
+4. Run nodemon .\server\server.js
