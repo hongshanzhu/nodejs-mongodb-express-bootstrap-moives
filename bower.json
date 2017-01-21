@@ -1,16 +1,19 @@
 {
-  "name": "gokk",
-  "version": "0.0.1",
+  "name": "moives",
+  "description": "this is a demo application made with react, express, mongodb and nodejs,",
+  "main": "index.js",
   "authors": [
-    "wangxinglong <hacke2@qq.com>"
+    "hongshan"
   ],
-  "description": "gokk",
-  "main": "app",
+  "description": "moives",
   "keywords": [
     "gokk"
   ],
   "license": "MIT",
-  "homepage": "www.hacke2.cn",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
   "ignore": [
     "**/.*",
     "node_modules",

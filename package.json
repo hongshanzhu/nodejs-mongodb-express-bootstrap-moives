@@ -1,11 +1,16 @@
 {
   "name": "moives",
-  "version": "0.0.1",
-  "description": "moives",
+  "version": "1.0.0",
+  "description": "this is a demo application made with react, express, mongodb and nodejs,",
   "main": "app.js",
   "directories": {
     "test": "test"
   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hongshan",
+  "license": "ISC",
   "dependencies": {
     "body-parser": "^1.14.2",
     "browserify": "^12.0.1",
@@ -24,13 +29,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hacke2/moives.git"
+    "url": "https://github.com/hongshanzhu/moives.git"
   },
   "keywords": [
     "moives"
   ],
-  "author": "hacke2",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/hacke2/moives/issues"
   },
