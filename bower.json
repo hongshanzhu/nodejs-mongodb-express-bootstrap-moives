@@ -20,6 +20,6 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "~3.2.0"
+    "bootstrap-css": "~3.3.4"
   }
 }

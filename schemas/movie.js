@@ -1,5 +1,5 @@
 var mongoose = require('mongoose')
-
+//骨架模版
 var MovieSchema = new mongoose.Schema({
 	columnName:String,
 	movies : Array
@@ -37,6 +37,7 @@ MovieSchema.methods.removeMovieByMovieID = function(movieID,callback) {
 	}
 }
 
+//添加静态方法
 MovieSchema.statics = {
 	findAll:function(callback){
 		return this
